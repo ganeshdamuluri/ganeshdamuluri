@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Ganesh 👋
 
-<!--
-**ganeshdamuluri/ganeshdamuluri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer based in Richmond, VA, building APIs and web applications with Node.js, PHP/Laravel, and cloud/container tooling.
 
-Here are some ideas to get you started:
+🔧 **Backend & APIs:** Node.js, Express, PHP, Laravel, REST API design  
+☁️ **Cloud & DevOps:** AWS Lambda, Docker, docker-compose  
+🗄️ **Databases:** SQLite, MySQL  
+📫 **Reach me:** d.ganeshtej@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Featured projects
+
+**[wallet_application](https://github.com/ganeshdamuluri/wallet_application)** — Node.js/Express wallet & transactions API with JWT auth and SQLite  
+**[loan-application](https://github.com/ganeshdamuluri/loan-application)** — Dockerized PHP/Laravel loan-processing app  
+**[CouponsApi](https://github.com/ganeshdamuluri/CouponsApi)** — Node.js REST API for coupon management, built with Express and SQLite  
